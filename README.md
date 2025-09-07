@@ -1,0 +1,2 @@
+# ClearScan
+HD document scanner
